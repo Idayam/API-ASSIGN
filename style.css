@@ -1,0 +1,52 @@
+.container li{
+    display: flex;
+    list-style: none;
+    display: inline;
+    justify-content: space-between;
+    padding: 40px;
+    margin-bottom: 100%;
+    margin-left: 90px;
+}
+.container{
+    border: solid black;
+    background-color: rgb(95, 84, 84);
+}
+button{
+    margin-left: 85%;
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+
+}
+#pic{
+    width: 200px;
+}
+.elec{
+    margin-left: 70px;
+    background-color: rgb(241, 242, 243);
+}
+h1{
+text-align: center;
+}
+p{
+    text-align: center;
+}
+#p{
+    margin-right: 50%;
+}
+#me{
+    width: 270px;
+    margin-left: 60%;
+    margin-top: -60px;
+}
+.footer{
+    display: flex;
+    background-color: rgb(48, 42, 42);
+   
+    color: aliceblue
+}
+.picachu{
+    display: flex;
+    justify-content: space-between;
+}
+
