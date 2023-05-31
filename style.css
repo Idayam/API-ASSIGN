@@ -1,25 +1,31 @@
 .container li{
     display: flex;
     list-style: none;
+    padding: 40px;
     display: inline;
     justify-content: space-between;
-    padding: 40px;
     margin-bottom: 100%;
     margin-left: 90px;
 }
 .container{
-    border: solid black;
     background-color: rgb(95, 84, 84);
+    border: solid black;
 }
 button{
     margin-left: 85%;
+    height: 50px;
     background-color: yellow;
     width: 100px;
-    height: 50px;
 
 }
 #pic{
     width: 200px;
+}
+#pic1{
+    width: 200px;
+}
+#pic2{
+    width: 270px;
 }
 .elec{
     margin-left: 70px;
@@ -48,5 +54,11 @@ p{
 .picachu{
     display: flex;
     justify-content: space-between;
-}
+    background-color: rgb(245, 237, 237);
+    }
+.box1{
+    border:solid rgb(245, 237, 237);
+    border-radius: 5px;
+}    
+
 
